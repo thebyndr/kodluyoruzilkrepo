@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 Projeyi cloneladıktan sonra VSC programında açınız.
 Linux için :
 # License
-[MIT](https://www.mit.edu/)
+[MIT](https://spdx.org/licenses/MIT.html)
 
 
 
